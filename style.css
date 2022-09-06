@@ -1,0 +1,75 @@
+.img-class {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.first-div {
+    width: 1700px;
+    height: 70px;
+    margin: 0 auto;
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.first-input {
+    width: 318px;
+    height: 16px;
+    padding: 1px 2px;
+}
+
+.second-div {
+    width: 1700px;
+    height: 70px;
+    margin: 1px auto;
+    display: table;
+}
+
+.ucluden-1 {
+    float: left;
+    margin-right: 2px;
+    text-align: center;
+    width: 36%;
+    height: 78px;
+    background-color: rgb(126, 229, 218);
+    font-size: 18px;
+    display: table;
+    
+}
+
+.ucluden-2 {
+    background-color: #70CCC2;
+    width: 20%;
+    height: 78px;
+    float: left;
+    margin-right: 2px;
+    text-align: center;
+    font-size: 15px;
+    display: table;
+}
+
+.ucluden-3 {
+    text-align: center;
+    width: 43.76%;
+    background-color: #62B3AA;
+    float: left;
+    height: 78px; 
+    font-size: 14px;
+}
+
+p {
+    margin: 0px;
+}
+
+.vt-align {
+    vertical-align: middle;
+    display: table-cell;
+}
+a {
+    color: blue;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+}
